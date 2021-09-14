@@ -1,0 +1,26 @@
+{
+  "name": "mini-challenge-6-1-binar",
+  "version": "1.0.0",
+  "description": "Membuat API dengan express & ORM Sequelize.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrizki/mini-challenge-6-1-binar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrizki/mini-challenge-6-1-binar/issues"
+  },
+  "homepage": "https://github.com/emrizki/mini-challenge-6-1-binar#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5"
+  }
+}
