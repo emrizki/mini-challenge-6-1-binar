@@ -1,2 +1,1 @@
-# Mini Challenge
-Membuat API dengan express & ORM Sequelize.
+# mini-challenge-6-1-binar
